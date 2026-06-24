@@ -50,7 +50,7 @@ try:
                 filename=logo_path
             )
 
-        # Verified text
+        # Verified
         page.insert_text(
             (75, rect.height - 18),
             "VERIFIED",
@@ -58,7 +58,7 @@ try:
             color=(0.0, 0.6, 0.2)
         )
 
-        # Portal name
+        # Portal Name
         page.insert_text(
             (145, rect.height - 18),
             "CBPG RESULT PORTAL",
