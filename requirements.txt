@@ -1,4 +1,0 @@
-flask
-pymupdf
-requests
-gunicorn
